@@ -1,0 +1,3274 @@
+{
+    "giao_dich": [
+        {
+            "so_tien": 5000000.0,
+            "danh_muc": "Luong",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 900000,
+            "danh_muc": "Sua, Trung",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 500000.0,
+            "danh_muc": "Qua Tang",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1,
+            "danh_muc": "USD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.67,
+            "danh_muc": "AED",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 70.86,
+            "danh_muc": "AFN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 86.97,
+            "danh_muc": "ALL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 389.78,
+            "danh_muc": "AMD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.79,
+            "danh_muc": "ANG",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 919.42,
+            "danh_muc": "AOA",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1172,
+            "danh_muc": "ARS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.55,
+            "danh_muc": "AUD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.79,
+            "danh_muc": "AWG",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.7,
+            "danh_muc": "AZN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.73,
+            "danh_muc": "BAM",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2,
+            "danh_muc": "BBD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 121.49,
+            "danh_muc": "BDT",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.73,
+            "danh_muc": "BGN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.376,
+            "danh_muc": "BHD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2950.63,
+            "danh_muc": "BIF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1,
+            "danh_muc": "BMD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.3,
+            "danh_muc": "BND",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 6.92,
+            "danh_muc": "BOB",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 5.67,
+            "danh_muc": "BRL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1,
+            "danh_muc": "BSD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 84.51,
+            "danh_muc": "BTN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 13.65,
+            "danh_muc": "BWP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.03,
+            "danh_muc": "BYN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2,
+            "danh_muc": "BZD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.38,
+            "danh_muc": "CAD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2890.22,
+            "danh_muc": "CDF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.826,
+            "danh_muc": "CHF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 947.21,
+            "danh_muc": "CLP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 7.25,
+            "danh_muc": "CNY",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 4234.19,
+            "danh_muc": "COP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 505.53,
+            "danh_muc": "CRC",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 24,
+            "danh_muc": "CUP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 97.44,
+            "danh_muc": "CVE",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 22,
+            "danh_muc": "CZK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 177.72,
+            "danh_muc": "DJF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 6.59,
+            "danh_muc": "DKK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 58.82,
+            "danh_muc": "DOP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 132.45,
+            "danh_muc": "DZD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 50.79,
+            "danh_muc": "EGP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 15,
+            "danh_muc": "ERN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 133.61,
+            "danh_muc": "ETB",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.884,
+            "danh_muc": "EUR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2.26,
+            "danh_muc": "FJD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.753,
+            "danh_muc": "FKP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 6.59,
+            "danh_muc": "FOK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.753,
+            "danh_muc": "GBP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2.75,
+            "danh_muc": "GEL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.753,
+            "danh_muc": "GGP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 14.03,
+            "danh_muc": "GHS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.753,
+            "danh_muc": "GIP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 72.7,
+            "danh_muc": "GMD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 8684.84,
+            "danh_muc": "GNF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 7.7,
+            "danh_muc": "GTQ",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 209.8,
+            "danh_muc": "GYD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 7.75,
+            "danh_muc": "HKD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 25.94,
+            "danh_muc": "HNL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 6.66,
+            "danh_muc": "HRK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 130.48,
+            "danh_muc": "HTG",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 357.13,
+            "danh_muc": "HUF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 16452.19,
+            "danh_muc": "IDR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.6,
+            "danh_muc": "ILS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.753,
+            "danh_muc": "IMP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 84.51,
+            "danh_muc": "INR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1309.82,
+            "danh_muc": "IQD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 41968.67,
+            "danh_muc": "IRR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 128.83,
+            "danh_muc": "ISK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.753,
+            "danh_muc": "JEP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 158.55,
+            "danh_muc": "JMD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.709,
+            "danh_muc": "JOD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 144.79,
+            "danh_muc": "JPY",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 129.35,
+            "danh_muc": "KES",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 87.35,
+            "danh_muc": "KGS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3989.71,
+            "danh_muc": "KHR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.55,
+            "danh_muc": "KID",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 434.75,
+            "danh_muc": "KMF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1399.92,
+            "danh_muc": "KRW",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.307,
+            "danh_muc": "KWD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.833,
+            "danh_muc": "KYD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 514.91,
+            "danh_muc": "KZT",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 21765.43,
+            "danh_muc": "LAK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 89500,
+            "danh_muc": "LBP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 299.43,
+            "danh_muc": "LKR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 199.99,
+            "danh_muc": "LRD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 18.4,
+            "danh_muc": "LSL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 5.46,
+            "danh_muc": "LYD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 9.27,
+            "danh_muc": "MAD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 17.21,
+            "danh_muc": "MDL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 4477.45,
+            "danh_muc": "MGA",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 54.32,
+            "danh_muc": "MKD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2099.61,
+            "danh_muc": "MMK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3588.53,
+            "danh_muc": "MNT",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 7.98,
+            "danh_muc": "MOP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 39.76,
+            "danh_muc": "MRU",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 45.24,
+            "danh_muc": "MUR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 15.45,
+            "danh_muc": "MVR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1743.76,
+            "danh_muc": "MWK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 19.62,
+            "danh_muc": "MXN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 4.28,
+            "danh_muc": "MYR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 63.82,
+            "danh_muc": "MZN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 18.4,
+            "danh_muc": "NAD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1601.65,
+            "danh_muc": "NGN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 36.79,
+            "danh_muc": "NIO",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 10.39,
+            "danh_muc": "NOK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 135.22,
+            "danh_muc": "NPR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.68,
+            "danh_muc": "NZD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.384,
+            "danh_muc": "OMR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1,
+            "danh_muc": "PAB",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.66,
+            "danh_muc": "PEN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 4.12,
+            "danh_muc": "PGK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 55.64,
+            "danh_muc": "PHP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 280.92,
+            "danh_muc": "PKR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.77,
+            "danh_muc": "PLN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 8036.99,
+            "danh_muc": "PYG",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.64,
+            "danh_muc": "QAR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 4.39,
+            "danh_muc": "RON",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 103.5,
+            "danh_muc": "RSD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 82.46,
+            "danh_muc": "RUB",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1453.32,
+            "danh_muc": "RWF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.75,
+            "danh_muc": "SAR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 8.55,
+            "danh_muc": "SBD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 14.21,
+            "danh_muc": "SCR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 508.51,
+            "danh_muc": "SDG",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 9.65,
+            "danh_muc": "SEK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.3,
+            "danh_muc": "SGD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.753,
+            "danh_muc": "SHP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 22.72,
+            "danh_muc": "SLE",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 22724.94,
+            "danh_muc": "SLL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 571.01,
+            "danh_muc": "SOS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 36.69,
+            "danh_muc": "SRD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 4578.09,
+            "danh_muc": "SSP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 21.65,
+            "danh_muc": "STN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 12891.43,
+            "danh_muc": "SYP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 18.4,
+            "danh_muc": "SZL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 32.98,
+            "danh_muc": "THB",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 10.59,
+            "danh_muc": "TJS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.5,
+            "danh_muc": "TMT",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2.98,
+            "danh_muc": "TND",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2.37,
+            "danh_muc": "TOP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 38.59,
+            "danh_muc": "TRY",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 6.76,
+            "danh_muc": "TTD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.55,
+            "danh_muc": "TVD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 30.71,
+            "danh_muc": "TWD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2686.58,
+            "danh_muc": "TZS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 41.73,
+            "danh_muc": "UAH",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3659.82,
+            "danh_muc": "UGX",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 42.05,
+            "danh_muc": "UYU",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 12919.17,
+            "danh_muc": "UZS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 88.64,
+            "danh_muc": "VES",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 26006.23,
+            "danh_muc": "VND",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 120.96,
+            "danh_muc": "VUV",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2.77,
+            "danh_muc": "WST",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 579.67,
+            "danh_muc": "XAF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2.7,
+            "danh_muc": "XCD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.79,
+            "danh_muc": "XCG",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.74,
+            "danh_muc": "XDR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 579.67,
+            "danh_muc": "XOF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 105.45,
+            "danh_muc": "XPF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 244.72,
+            "danh_muc": "YER",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 18.4,
+            "danh_muc": "ZAR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 500000.0,
+            "danh_muc": "Banh",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1,
+            "danh_muc": "USD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.67,
+            "danh_muc": "AED",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 70.86,
+            "danh_muc": "AFN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 86.97,
+            "danh_muc": "ALL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 389.78,
+            "danh_muc": "AMD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.79,
+            "danh_muc": "ANG",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 919.42,
+            "danh_muc": "AOA",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1172,
+            "danh_muc": "ARS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.55,
+            "danh_muc": "AUD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.79,
+            "danh_muc": "AWG",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.7,
+            "danh_muc": "AZN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.73,
+            "danh_muc": "BAM",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2,
+            "danh_muc": "BBD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 121.49,
+            "danh_muc": "BDT",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.73,
+            "danh_muc": "BGN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.376,
+            "danh_muc": "BHD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2950.63,
+            "danh_muc": "BIF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1,
+            "danh_muc": "BMD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.3,
+            "danh_muc": "BND",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 6.92,
+            "danh_muc": "BOB",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 5.67,
+            "danh_muc": "BRL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1,
+            "danh_muc": "BSD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 84.51,
+            "danh_muc": "BTN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 13.65,
+            "danh_muc": "BWP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.03,
+            "danh_muc": "BYN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2,
+            "danh_muc": "BZD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.38,
+            "danh_muc": "CAD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2890.22,
+            "danh_muc": "CDF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.826,
+            "danh_muc": "CHF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 947.21,
+            "danh_muc": "CLP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 7.25,
+            "danh_muc": "CNY",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 4234.19,
+            "danh_muc": "COP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 505.53,
+            "danh_muc": "CRC",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 24,
+            "danh_muc": "CUP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 97.44,
+            "danh_muc": "CVE",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 22,
+            "danh_muc": "CZK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 177.72,
+            "danh_muc": "DJF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 6.59,
+            "danh_muc": "DKK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 58.82,
+            "danh_muc": "DOP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 132.45,
+            "danh_muc": "DZD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 50.79,
+            "danh_muc": "EGP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 15,
+            "danh_muc": "ERN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 133.61,
+            "danh_muc": "ETB",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.884,
+            "danh_muc": "EUR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2.26,
+            "danh_muc": "FJD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.753,
+            "danh_muc": "FKP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 6.59,
+            "danh_muc": "FOK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.753,
+            "danh_muc": "GBP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2.75,
+            "danh_muc": "GEL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.753,
+            "danh_muc": "GGP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 14.03,
+            "danh_muc": "GHS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.753,
+            "danh_muc": "GIP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 72.7,
+            "danh_muc": "GMD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 8684.84,
+            "danh_muc": "GNF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 7.7,
+            "danh_muc": "GTQ",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 209.8,
+            "danh_muc": "GYD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 7.75,
+            "danh_muc": "HKD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 25.94,
+            "danh_muc": "HNL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 6.66,
+            "danh_muc": "HRK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 130.48,
+            "danh_muc": "HTG",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 357.13,
+            "danh_muc": "HUF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 16452.19,
+            "danh_muc": "IDR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.6,
+            "danh_muc": "ILS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.753,
+            "danh_muc": "IMP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 84.51,
+            "danh_muc": "INR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1309.82,
+            "danh_muc": "IQD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 41968.67,
+            "danh_muc": "IRR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 128.83,
+            "danh_muc": "ISK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.753,
+            "danh_muc": "JEP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 158.55,
+            "danh_muc": "JMD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.709,
+            "danh_muc": "JOD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 144.79,
+            "danh_muc": "JPY",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 129.35,
+            "danh_muc": "KES",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 87.35,
+            "danh_muc": "KGS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3989.71,
+            "danh_muc": "KHR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.55,
+            "danh_muc": "KID",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 434.75,
+            "danh_muc": "KMF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1399.92,
+            "danh_muc": "KRW",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.307,
+            "danh_muc": "KWD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.833,
+            "danh_muc": "KYD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 514.91,
+            "danh_muc": "KZT",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 21765.43,
+            "danh_muc": "LAK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 89500,
+            "danh_muc": "LBP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 299.43,
+            "danh_muc": "LKR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 199.99,
+            "danh_muc": "LRD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 18.4,
+            "danh_muc": "LSL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 5.46,
+            "danh_muc": "LYD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 9.27,
+            "danh_muc": "MAD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 17.21,
+            "danh_muc": "MDL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 4477.45,
+            "danh_muc": "MGA",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 54.32,
+            "danh_muc": "MKD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2099.61,
+            "danh_muc": "MMK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3588.53,
+            "danh_muc": "MNT",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 7.98,
+            "danh_muc": "MOP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 39.76,
+            "danh_muc": "MRU",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 45.24,
+            "danh_muc": "MUR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 15.45,
+            "danh_muc": "MVR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1743.76,
+            "danh_muc": "MWK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 19.62,
+            "danh_muc": "MXN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 4.28,
+            "danh_muc": "MYR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 63.82,
+            "danh_muc": "MZN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 18.4,
+            "danh_muc": "NAD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1601.65,
+            "danh_muc": "NGN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 36.79,
+            "danh_muc": "NIO",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 10.39,
+            "danh_muc": "NOK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 135.22,
+            "danh_muc": "NPR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.68,
+            "danh_muc": "NZD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.384,
+            "danh_muc": "OMR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1,
+            "danh_muc": "PAB",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.66,
+            "danh_muc": "PEN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 4.12,
+            "danh_muc": "PGK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 55.64,
+            "danh_muc": "PHP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 280.92,
+            "danh_muc": "PKR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.77,
+            "danh_muc": "PLN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 8036.99,
+            "danh_muc": "PYG",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.64,
+            "danh_muc": "QAR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 4.39,
+            "danh_muc": "RON",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 103.5,
+            "danh_muc": "RSD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 82.46,
+            "danh_muc": "RUB",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1453.32,
+            "danh_muc": "RWF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.75,
+            "danh_muc": "SAR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 8.55,
+            "danh_muc": "SBD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 14.21,
+            "danh_muc": "SCR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 508.51,
+            "danh_muc": "SDG",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 9.65,
+            "danh_muc": "SEK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.3,
+            "danh_muc": "SGD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.753,
+            "danh_muc": "SHP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 22.72,
+            "danh_muc": "SLE",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 22724.94,
+            "danh_muc": "SLL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 571.01,
+            "danh_muc": "SOS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 36.69,
+            "danh_muc": "SRD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 4578.09,
+            "danh_muc": "SSP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 21.65,
+            "danh_muc": "STN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 12891.43,
+            "danh_muc": "SYP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 18.4,
+            "danh_muc": "SZL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 32.98,
+            "danh_muc": "THB",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 10.59,
+            "danh_muc": "TJS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.5,
+            "danh_muc": "TMT",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2.98,
+            "danh_muc": "TND",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2.37,
+            "danh_muc": "TOP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 38.59,
+            "danh_muc": "TRY",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 6.76,
+            "danh_muc": "TTD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.55,
+            "danh_muc": "TVD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 30.71,
+            "danh_muc": "TWD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2686.58,
+            "danh_muc": "TZS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 41.73,
+            "danh_muc": "UAH",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3659.82,
+            "danh_muc": "UGX",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 42.05,
+            "danh_muc": "UYU",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 12919.17,
+            "danh_muc": "UZS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 88.64,
+            "danh_muc": "VES",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 26006.23,
+            "danh_muc": "VND",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 120.96,
+            "danh_muc": "VUV",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2.77,
+            "danh_muc": "WST",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 579.67,
+            "danh_muc": "XAF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2.7,
+            "danh_muc": "XCD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.79,
+            "danh_muc": "XCG",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.74,
+            "danh_muc": "XDR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 579.67,
+            "danh_muc": "XOF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 105.45,
+            "danh_muc": "XPF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 244.72,
+            "danh_muc": "YER",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 18.4,
+            "danh_muc": "ZAR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 27.97,
+            "danh_muc": "ZMW",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 26.82,
+            "danh_muc": "ZWL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1,
+            "danh_muc": "USD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.67,
+            "danh_muc": "AED",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 70.86,
+            "danh_muc": "AFN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 86.97,
+            "danh_muc": "ALL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 389.78,
+            "danh_muc": "AMD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.79,
+            "danh_muc": "ANG",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 919.42,
+            "danh_muc": "AOA",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1172,
+            "danh_muc": "ARS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.55,
+            "danh_muc": "AUD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.79,
+            "danh_muc": "AWG",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.7,
+            "danh_muc": "AZN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.73,
+            "danh_muc": "BAM",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2,
+            "danh_muc": "BBD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 121.49,
+            "danh_muc": "BDT",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.73,
+            "danh_muc": "BGN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.376,
+            "danh_muc": "BHD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2950.63,
+            "danh_muc": "BIF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1,
+            "danh_muc": "BMD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.3,
+            "danh_muc": "BND",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 6.92,
+            "danh_muc": "BOB",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 5.67,
+            "danh_muc": "BRL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1,
+            "danh_muc": "BSD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 84.51,
+            "danh_muc": "BTN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 13.65,
+            "danh_muc": "BWP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.03,
+            "danh_muc": "BYN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2,
+            "danh_muc": "BZD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.38,
+            "danh_muc": "CAD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2890.22,
+            "danh_muc": "CDF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.826,
+            "danh_muc": "CHF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 947.21,
+            "danh_muc": "CLP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 7.25,
+            "danh_muc": "CNY",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 4234.19,
+            "danh_muc": "COP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 505.53,
+            "danh_muc": "CRC",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 24,
+            "danh_muc": "CUP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 97.44,
+            "danh_muc": "CVE",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 22,
+            "danh_muc": "CZK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 177.72,
+            "danh_muc": "DJF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 6.59,
+            "danh_muc": "DKK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 58.82,
+            "danh_muc": "DOP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 132.45,
+            "danh_muc": "DZD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 50.79,
+            "danh_muc": "EGP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 15,
+            "danh_muc": "ERN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 133.61,
+            "danh_muc": "ETB",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.884,
+            "danh_muc": "EUR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2.26,
+            "danh_muc": "FJD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.753,
+            "danh_muc": "FKP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 6.59,
+            "danh_muc": "FOK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.753,
+            "danh_muc": "GBP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2.75,
+            "danh_muc": "GEL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.753,
+            "danh_muc": "GGP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 14.03,
+            "danh_muc": "GHS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.753,
+            "danh_muc": "GIP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 72.7,
+            "danh_muc": "GMD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 8684.84,
+            "danh_muc": "GNF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 7.7,
+            "danh_muc": "GTQ",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 209.8,
+            "danh_muc": "GYD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 7.75,
+            "danh_muc": "HKD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 25.94,
+            "danh_muc": "HNL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 6.66,
+            "danh_muc": "HRK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 130.48,
+            "danh_muc": "HTG",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 357.13,
+            "danh_muc": "HUF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 16452.19,
+            "danh_muc": "IDR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.6,
+            "danh_muc": "ILS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.753,
+            "danh_muc": "IMP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 84.51,
+            "danh_muc": "INR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1309.82,
+            "danh_muc": "IQD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 41968.67,
+            "danh_muc": "IRR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 128.83,
+            "danh_muc": "ISK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.753,
+            "danh_muc": "JEP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 158.55,
+            "danh_muc": "JMD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.709,
+            "danh_muc": "JOD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 144.79,
+            "danh_muc": "JPY",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 129.35,
+            "danh_muc": "KES",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 87.35,
+            "danh_muc": "KGS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3989.71,
+            "danh_muc": "KHR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.55,
+            "danh_muc": "KID",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 434.75,
+            "danh_muc": "KMF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1399.92,
+            "danh_muc": "KRW",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.307,
+            "danh_muc": "KWD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.833,
+            "danh_muc": "KYD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 514.91,
+            "danh_muc": "KZT",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 21765.43,
+            "danh_muc": "LAK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 89500,
+            "danh_muc": "LBP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 299.43,
+            "danh_muc": "LKR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 199.99,
+            "danh_muc": "LRD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 18.4,
+            "danh_muc": "LSL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 5.46,
+            "danh_muc": "LYD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 9.27,
+            "danh_muc": "MAD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 17.21,
+            "danh_muc": "MDL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 4477.45,
+            "danh_muc": "MGA",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 54.32,
+            "danh_muc": "MKD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2099.61,
+            "danh_muc": "MMK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3588.53,
+            "danh_muc": "MNT",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 7.98,
+            "danh_muc": "MOP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 39.76,
+            "danh_muc": "MRU",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 45.24,
+            "danh_muc": "MUR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 15.45,
+            "danh_muc": "MVR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1743.76,
+            "danh_muc": "MWK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 19.62,
+            "danh_muc": "MXN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 4.28,
+            "danh_muc": "MYR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 63.82,
+            "danh_muc": "MZN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 18.4,
+            "danh_muc": "NAD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1601.65,
+            "danh_muc": "NGN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 36.79,
+            "danh_muc": "NIO",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 10.39,
+            "danh_muc": "NOK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 135.22,
+            "danh_muc": "NPR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.68,
+            "danh_muc": "NZD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.384,
+            "danh_muc": "OMR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1,
+            "danh_muc": "PAB",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.66,
+            "danh_muc": "PEN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 4.12,
+            "danh_muc": "PGK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 55.64,
+            "danh_muc": "PHP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 280.92,
+            "danh_muc": "PKR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.77,
+            "danh_muc": "PLN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 8036.99,
+            "danh_muc": "PYG",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.64,
+            "danh_muc": "QAR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 4.39,
+            "danh_muc": "RON",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 103.5,
+            "danh_muc": "RSD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 82.46,
+            "danh_muc": "RUB",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1453.32,
+            "danh_muc": "RWF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.75,
+            "danh_muc": "SAR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 8.55,
+            "danh_muc": "SBD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 14.21,
+            "danh_muc": "SCR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 508.51,
+            "danh_muc": "SDG",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 9.65,
+            "danh_muc": "SEK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.3,
+            "danh_muc": "SGD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.753,
+            "danh_muc": "SHP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 22.72,
+            "danh_muc": "SLE",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 22724.94,
+            "danh_muc": "SLL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 571.01,
+            "danh_muc": "SOS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 36.69,
+            "danh_muc": "SRD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 4578.09,
+            "danh_muc": "SSP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 21.65,
+            "danh_muc": "STN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 12891.43,
+            "danh_muc": "SYP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 18.4,
+            "danh_muc": "SZL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 32.98,
+            "danh_muc": "THB",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 10.59,
+            "danh_muc": "TJS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.5,
+            "danh_muc": "TMT",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2.98,
+            "danh_muc": "TND",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2.37,
+            "danh_muc": "TOP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 38.59,
+            "danh_muc": "TRY",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 6.76,
+            "danh_muc": "TTD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.55,
+            "danh_muc": "TVD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 30.71,
+            "danh_muc": "TWD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2686.58,
+            "danh_muc": "TZS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 41.73,
+            "danh_muc": "UAH",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3659.82,
+            "danh_muc": "UGX",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 42.05,
+            "danh_muc": "UYU",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 12919.17,
+            "danh_muc": "UZS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 88.64,
+            "danh_muc": "VES",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 26006.23,
+            "danh_muc": "VND",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 120.96,
+            "danh_muc": "VUV",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2.77,
+            "danh_muc": "WST",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 579.67,
+            "danh_muc": "XAF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2.7,
+            "danh_muc": "XCD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.79,
+            "danh_muc": "XCG",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.74,
+            "danh_muc": "XDR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 579.67,
+            "danh_muc": "XOF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 105.45,
+            "danh_muc": "XPF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 244.72,
+            "danh_muc": "YER",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 18.4,
+            "danh_muc": "ZAR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 27.97,
+            "danh_muc": "ZMW",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 500000.0,
+            "danh_muc": "Tien Thuong",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1,
+            "danh_muc": "USD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.67,
+            "danh_muc": "AED",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 70.86,
+            "danh_muc": "AFN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 86.97,
+            "danh_muc": "ALL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 389.78,
+            "danh_muc": "AMD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.79,
+            "danh_muc": "ANG",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 919.42,
+            "danh_muc": "AOA",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1172,
+            "danh_muc": "ARS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.55,
+            "danh_muc": "AUD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.79,
+            "danh_muc": "AWG",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.7,
+            "danh_muc": "AZN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.73,
+            "danh_muc": "BAM",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2,
+            "danh_muc": "BBD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 121.49,
+            "danh_muc": "BDT",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.73,
+            "danh_muc": "BGN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.376,
+            "danh_muc": "BHD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2950.63,
+            "danh_muc": "BIF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1,
+            "danh_muc": "BMD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.3,
+            "danh_muc": "BND",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 6.92,
+            "danh_muc": "BOB",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 5.67,
+            "danh_muc": "BRL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1,
+            "danh_muc": "BSD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 84.51,
+            "danh_muc": "BTN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 13.65,
+            "danh_muc": "BWP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.03,
+            "danh_muc": "BYN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2,
+            "danh_muc": "BZD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.38,
+            "danh_muc": "CAD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2890.22,
+            "danh_muc": "CDF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.826,
+            "danh_muc": "CHF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 947.21,
+            "danh_muc": "CLP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 7.25,
+            "danh_muc": "CNY",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 4234.19,
+            "danh_muc": "COP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 505.53,
+            "danh_muc": "CRC",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 24,
+            "danh_muc": "CUP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 97.44,
+            "danh_muc": "CVE",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 22,
+            "danh_muc": "CZK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 177.72,
+            "danh_muc": "DJF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 6.59,
+            "danh_muc": "DKK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 58.82,
+            "danh_muc": "DOP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 132.45,
+            "danh_muc": "DZD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 50.79,
+            "danh_muc": "EGP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 15,
+            "danh_muc": "ERN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 133.61,
+            "danh_muc": "ETB",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.884,
+            "danh_muc": "EUR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2.26,
+            "danh_muc": "FJD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.753,
+            "danh_muc": "FKP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 6.59,
+            "danh_muc": "FOK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.753,
+            "danh_muc": "GBP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2.75,
+            "danh_muc": "GEL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.753,
+            "danh_muc": "GGP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 14.03,
+            "danh_muc": "GHS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.753,
+            "danh_muc": "GIP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 72.7,
+            "danh_muc": "GMD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 8684.84,
+            "danh_muc": "GNF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 7.7,
+            "danh_muc": "GTQ",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 209.8,
+            "danh_muc": "GYD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 7.75,
+            "danh_muc": "HKD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 25.94,
+            "danh_muc": "HNL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 6.66,
+            "danh_muc": "HRK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 130.48,
+            "danh_muc": "HTG",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 357.13,
+            "danh_muc": "HUF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 16452.19,
+            "danh_muc": "IDR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.6,
+            "danh_muc": "ILS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.753,
+            "danh_muc": "IMP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 84.51,
+            "danh_muc": "INR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1309.82,
+            "danh_muc": "IQD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 41968.67,
+            "danh_muc": "IRR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 128.83,
+            "danh_muc": "ISK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.753,
+            "danh_muc": "JEP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 158.55,
+            "danh_muc": "JMD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.709,
+            "danh_muc": "JOD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 144.79,
+            "danh_muc": "JPY",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 129.35,
+            "danh_muc": "KES",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 87.35,
+            "danh_muc": "KGS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3989.71,
+            "danh_muc": "KHR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.55,
+            "danh_muc": "KID",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 434.75,
+            "danh_muc": "KMF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1399.92,
+            "danh_muc": "KRW",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.307,
+            "danh_muc": "KWD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.833,
+            "danh_muc": "KYD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 514.91,
+            "danh_muc": "KZT",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 21765.43,
+            "danh_muc": "LAK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 89500,
+            "danh_muc": "LBP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 299.43,
+            "danh_muc": "LKR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 199.99,
+            "danh_muc": "LRD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 18.4,
+            "danh_muc": "LSL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 5.46,
+            "danh_muc": "LYD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 9.27,
+            "danh_muc": "MAD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 17.21,
+            "danh_muc": "MDL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 4477.45,
+            "danh_muc": "MGA",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 54.32,
+            "danh_muc": "MKD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2099.61,
+            "danh_muc": "MMK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3588.53,
+            "danh_muc": "MNT",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 7.98,
+            "danh_muc": "MOP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 39.76,
+            "danh_muc": "MRU",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 45.24,
+            "danh_muc": "MUR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 15.45,
+            "danh_muc": "MVR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1743.76,
+            "danh_muc": "MWK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 19.62,
+            "danh_muc": "MXN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 4.28,
+            "danh_muc": "MYR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 63.82,
+            "danh_muc": "MZN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 18.4,
+            "danh_muc": "NAD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1601.65,
+            "danh_muc": "NGN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 36.79,
+            "danh_muc": "NIO",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 10.39,
+            "danh_muc": "NOK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 135.22,
+            "danh_muc": "NPR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.68,
+            "danh_muc": "NZD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.384,
+            "danh_muc": "OMR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1,
+            "danh_muc": "PAB",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.66,
+            "danh_muc": "PEN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 4.12,
+            "danh_muc": "PGK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 55.64,
+            "danh_muc": "PHP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 280.92,
+            "danh_muc": "PKR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.77,
+            "danh_muc": "PLN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 8036.99,
+            "danh_muc": "PYG",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.64,
+            "danh_muc": "QAR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 4.39,
+            "danh_muc": "RON",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 103.5,
+            "danh_muc": "RSD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 82.46,
+            "danh_muc": "RUB",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1453.32,
+            "danh_muc": "RWF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.75,
+            "danh_muc": "SAR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 8.55,
+            "danh_muc": "SBD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 14.21,
+            "danh_muc": "SCR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 508.51,
+            "danh_muc": "SDG",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 9.65,
+            "danh_muc": "SEK",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.3,
+            "danh_muc": "SGD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.753,
+            "danh_muc": "SHP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 22.72,
+            "danh_muc": "SLE",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 22724.94,
+            "danh_muc": "SLL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 571.01,
+            "danh_muc": "SOS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 36.69,
+            "danh_muc": "SRD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 4578.09,
+            "danh_muc": "SSP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 21.65,
+            "danh_muc": "STN",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 12891.43,
+            "danh_muc": "SYP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 18.4,
+            "danh_muc": "SZL",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 32.98,
+            "danh_muc": "THB",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 10.59,
+            "danh_muc": "TJS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3.5,
+            "danh_muc": "TMT",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2.98,
+            "danh_muc": "TND",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2.37,
+            "danh_muc": "TOP",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 38.59,
+            "danh_muc": "TRY",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 6.76,
+            "danh_muc": "TTD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.55,
+            "danh_muc": "TVD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 30.71,
+            "danh_muc": "TWD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2686.58,
+            "danh_muc": "TZS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 41.73,
+            "danh_muc": "UAH",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 3659.82,
+            "danh_muc": "UGX",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 42.05,
+            "danh_muc": "UYU",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 12919.17,
+            "danh_muc": "UZS",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 88.64,
+            "danh_muc": "VES",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 26006.23,
+            "danh_muc": "VND",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 120.96,
+            "danh_muc": "VUV",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2.77,
+            "danh_muc": "WST",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 579.67,
+            "danh_muc": "XAF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 2.7,
+            "danh_muc": "XCD",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 1.79,
+            "danh_muc": "XCG",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 0.74,
+            "danh_muc": "XDR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 579.67,
+            "danh_muc": "XOF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 105.45,
+            "danh_muc": "XPF",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 244.72,
+            "danh_muc": "YER",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 18.4,
+            "danh_muc": "ZAR",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 27.97,
+            "danh_muc": "ZMW",
+            "ngay": "2025-05-04"
+        },
+        {
+            "so_tien": 26.82,
+            "danh_muc": "ZWL",
+            "ngay": "2025-05-04"
+        }
+    ]
+}
