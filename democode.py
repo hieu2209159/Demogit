@@ -1,7 +1,7 @@
 import json
 from datetime import datetime
 import tkinter as tk
-from tkinter import messagebox, simpledialog, Listbox, Scrollbar
+from tkinter import messagebox, simpledialog, Listbox, Scrollbar, Frame, Label, Entry, Button
 import requests
 
 class UserManager:
@@ -81,6 +81,7 @@ class App:
     def __init__(self, root):
         self.root = root
         self.root.title("Quản Lý Tài Chính")
+        self.root.configure(bg="#ADD8E6")  # Màu nền xanh nước biển nhạt
         self.user_manager = UserManager()
         self.manager = QuanLyTaiChinh()
         self.current_user = None
@@ -89,19 +90,20 @@ class App:
         self.login_window()
 
     def login_window(self):
-        self.login_frame = tk.Frame(self.root)
-        self.login_frame.pack()
+        self.login_frame = Frame(self.root, padx=20, pady=20, bg="#ADD8E6")
+        self.login_frame.pack(padx=10, pady=10)
 
-        tk.Label(self.login_frame, text="Username").grid(row=0)
-        self.username_entry = tk.Entry(self.login_frame)
-        self.username_entry.grid(row=0, column=1)
+        Label(self.login_frame, text="Username: ", bg="#ADD8E6").grid(row=0, column=0, sticky='w', pady=5)
+        self.username_entry = Entry(self.login_frame)
+        self.username_entry.grid(row=0, column=1, pady=5)
 
-        tk.Label(self.login_frame, text="Password").grid(row=1)
-        self.password_entry = tk.Entry(self.login_frame, show='*')
-        self.password_entry.grid(row=1, column=1)
+        Label(self.login_frame, text="Password: ", bg="#ADD8E6").grid(row=1, column=0, sticky='w', pady=5)
+        self.password_entry = Entry(self.login_frame, show='*')
+        self.password_entry.grid(row=1, column=1, pady=5)
 
-        tk.Button(self.login_frame, text="Đăng Nhập", command=self.dang_nhap).grid(row=2, column=0, sticky=tk.W, pady=4)
-        tk.Button(self.login_frame, text="Đăng Ký", command=self.dang_ky).grid(row=2, column=1, sticky=tk.W, pady=4)
+        # Nút đăng nhập và đăng ký với kích thước bình thường
+        Button(self.login_frame, text="Đăng Nhập", command=self.dang_nhap, width=12, bg="#4CAF50", fg="white").grid(row=2, column=0, pady=10)
+        Button(self.login_frame, text="Đăng Ký", command=self.dang_ky, width=12, bg="#2196F3", fg="white").grid(row=2, column=1, pady=10)
 
     def dang_nhap(self):
         username = self.username_entry.get()
@@ -109,7 +111,7 @@ class App:
         success, role = self.user_manager.dang_nhap(username, password)
         if success:
             self.current_user = username
-            self.user_role = role  # Lưu vai trò của người dùng
+            self.user_role = role
             self.login_frame.pack_forget()
             self.main_window()
         else:
@@ -126,11 +128,28 @@ class App:
             messagebox.showerror("Lỗi", "Tên người dùng đã tồn tại.")
 
     def main_window(self):
-        self.main_frame = tk.Frame(self.root)
-        self.main_frame.pack()
+        self.main_frame = Frame(self.root, padx=20, pady=20, bg="#ADD8E6")
+        self.main_frame.pack(fill=tk.BOTH, expand=True)
 
-        self.listbox = Listbox(self.main_frame)
-        self.listbox.pack()
+        # Tiêu đề "Quản Lý Giao Dịch"
+        title_label = Label(self.main_frame, text="Quản Lý Giao Dịch", font=('Arial', 18, 'bold'), bg="#ADD8E6", fg="#333333")
+        title_label.pack(pady=10)
+
+        # Lời chào người dùng
+        greeting_label = Label(self.main_frame, text=f"Xin chào {self.current_user} ({self.user_role})!", font=('Arial', 12), bg="#ADD8E6", fg="#333333")
+        greeting_label.pack(pady=5)
+
+        # Header Frame cho tên cột
+        header_frame = Frame(self.main_frame)
+        header_frame.pack(fill=tk.X)
+
+        Label(header_frame, text="Ngày", width=20, font=('Arial', 12, 'bold')).grid(row=0, column=0, sticky='w')
+        Label(header_frame, text="Danh Mục", width=25, font=('Arial', 12, 'bold')).grid(row=0, column=1, sticky='w')
+        Label(header_frame, text="Số Tiền", width=20, font=('Arial', 12, 'bold')).grid(row=0, column=2, sticky='w')
+
+        # Listbox để hiển thị giao dịch
+        self.listbox = Listbox(self.main_frame, font=('Arial', 12), width=70)
+        self.listbox.pack(side="left", fill="both", expand=True)
 
         self.scrollbar = Scrollbar(self.main_frame)
         self.scrollbar.pack(side="right", fill="y")
@@ -138,12 +157,14 @@ class App:
         self.scrollbar.config(command=self.listbox.yview)
 
         if self.user_role == 'admin':
-            tk.Button(self.main_frame, text="Thêm Giao Dịch", command=self.them_giao_dich).pack()
-            tk.Button(self.main_frame, text="Cập Nhật Giao Dịch", command=self.cap_nhat_giao_dich).pack()
-            tk.Button(self.main_frame, text="Xóa Giao Dịch", command=self.xoa_giao_dich).pack()
+            # Các nút với kích thước lớn hơn
+            Button(self.main_frame, text="Thêm Giao Dịch", command=self.them_giao_dich, width=20, bg="#4CAF50", fg="white", padx=10, pady=10).pack(pady=5)
+            Button(self.main_frame, text="Cập Nhật Giao Dịch", command=self.cap_nhat_giao_dich, width=20, bg="#FF9800", fg="white", padx=10, pady=10).pack(pady=5)
+            Button(self.main_frame, text="Xóa Giao Dịch", command=self.xoa_giao_dich, width=20, bg="#F44336", fg="white", padx=10, pady=10).pack(pady=5)
+            Button(self.main_frame, text="Xóa Tất Cả Giao Dịch", command=self.xoa_tat_ca_giao_dich, width=20, bg="#F44336", fg="white", padx=10, pady=10).pack(pady=5)
 
-        tk.Button(self.main_frame, text="Đọc Dữ Liệu", command=self.hien_thi_giao_dich).pack()
-        tk.Button(self.main_frame, text="Lấy Dữ Liệu Từ API", command=self.lay_du_lieu_tu_api).pack()
+        Button(self.main_frame, text="Đọc Dữ Liệu", command=self.hien_thi_giao_dich, width=20, bg="#2196F3", fg="white", padx=10, pady=10).pack(pady=5)
+        Button(self.main_frame, text="Lấy Dữ Liệu Từ API", command=self.lay_du_lieu_tu_api, width=20, bg="#2196F3", fg="white", padx=10, pady=10).pack(pady=5)
 
         self.hien_thi_giao_dich()
 
@@ -151,7 +172,9 @@ class App:
         self.manager.nhap_du_lieu()
         self.listbox.delete(0, tk.END)
         for gd in self.manager.giao_dich:
-            self.listbox.insert(tk.END, f"{gd['ngay']}: {gd['danh_muc']} - {gd['so_tien']}")
+            # Định dạng mỗi mục để căn chỉnh với tiêu đề
+            entry = f"{gd['ngay']:<60} {gd['danh_muc']:<60} {gd['so_tien']:<20}"
+            self.listbox.insert(tk.END, entry)
 
     def them_giao_dich(self):
         so_tien = simpledialog.askfloat("Nhập số tiền", "Số tiền:")
@@ -176,6 +199,12 @@ class App:
             self.manager.xoa_giao_dich(index[0])
             self.hien_thi_giao_dich()
 
+    def xoa_tat_ca_giao_dich(self):
+        if messagebox.askyesno("Xác Nhận", "Bạn có chắc chắn muốn xóa tất cả giao dịch?"):
+            self.manager.giao_dich.clear()
+            self.manager.luu_du_lieu()
+            self.hien_thi_giao_dich()
+
     def lay_du_lieu_tu_api(self):
         data = self.manager.lay_du_lieu_tu_api()
         if data:
@@ -183,5 +212,7 @@ class App:
 
 if __name__ == "__main__":
     root = tk.Tk()
+    root.geometry("600x600")
+    root.resizable(True, True)  # Cho phép thay đổi kích thước
     app = App(root)
     root.mainloop()

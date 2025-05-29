@@ -6,5 +6,13 @@
     "hieu234": {
         "password": "123",
         "role": "admin"
+    },
+    "admin": {
+        "password": "123",
+        "role": "admin"
+    },
+    "user": {
+        "password": "123",
+        "role": "user"
     }
 }
